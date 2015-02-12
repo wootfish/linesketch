@@ -128,6 +128,14 @@ time allows:
    of these ideas out and see how they look.
 
 
+ * Code prettification
+
+   At its core, this project is a hack. It started as a cool idea that
+   turned out to actually work. The codebase shows some of this slapped-
+   togetherness, and it might be nice at some point to put a bit of
+   polish on it.
+
+
  * Implementing the -p flag
 
    The multiprocessing library has support for various features, most
